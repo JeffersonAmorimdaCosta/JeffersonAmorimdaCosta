@@ -2,7 +2,7 @@
 
 
 ## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jefferson.amorym/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jefferson-amorim-da-costa-23b515295/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jefferson.amorym/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jefferson-amorim-da-costa-23b515295/) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JeffersonAmorimdaCosta&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
